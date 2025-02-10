@@ -1,5 +1,0 @@
-a = (input("Enter first number: "))
-b = (input("Enter second number: "))
-c = (input("Enter third number: "))
-print("The largest number:", max(a, b, c))
-print("The smallest number:", min(a, b, c))
