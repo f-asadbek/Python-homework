@@ -1,0 +1,5 @@
+101, sajskak, skjskjk, 2344543 
+101, sara, economist, 32000 
+102, wwerrt, sdfgh, 12345 
+103, siroj, students, 230000 
+
